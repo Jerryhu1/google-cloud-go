@@ -1,5 +1,12 @@
 # Changes
 
+## [1.4.0](https://github.com/googleapis/google-cloud-go/compare/dlp/v1.3.0...dlp/v1.4.0) (2022-04-02)
+
+
+### Features
+
+* **dlp:** new Bytes and File types: POWERPOINT and EXCEL ([81c4c91](https://github.com/googleapis/google-cloud-go/commit/81c4c9116178711059772f41bbf76d423ffebc95))
+
 ## [1.3.0](https://github.com/googleapis/google-cloud-go/compare/dlp/v1.2.0...dlp/v1.3.0) (2022-02-23)
 
 
